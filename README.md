@@ -108,22 +108,3 @@ Me chamo Jessica Cristina da Silva Souza, tenho 19 anos e sou natural de Fortale
     width="300px"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicacristinass&theme=tokyonight&layout=compact&custom_title=Tecnologias"
 />
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-## Principais Projetos
-
-<div style="display: flex;">
-<a href="https://github.com/jessicacristinass/RaizesCidadas">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=jessicacristinass&repo=RaizesCidadas&show_owner=true&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/jessicacristinass/Feira-de-Ciencias">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=jessicacristinass&repo=Feira-de-Ciencias&show_owner=true&theme=tokyonight" />
-</a>
-</div>
