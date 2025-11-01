@@ -2,7 +2,6 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Jessica Cristina da Silva Souza, tenho 19 anos e sou natural de Fortaleza. 
 Me chamo Jessica Cristina da Silva Souza, tenho 19 anos e sou natural de Fortaleza. Sou formada no curso técnico de informática do IFCE e atualmente estou cursando a faculdade de Análise e Desenvolvimento de Sistemas na Uninassau. Participei da trilha de desenvolvimento FullStack do Programa Residência em TIC-20 do Capacita Brasil através do projeto C-Jovem.
 
 ---
