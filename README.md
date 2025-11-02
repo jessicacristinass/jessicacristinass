@@ -140,6 +140,9 @@ Tenho como foco a criação de aplicações mobile e de sites e atualmente estou
     height="180px"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicacristinass&theme=tokyonight&layout=compact&custom_title=Tecnologias"
   />
+
+<br/>
+
   <img 
     alt="GitHub Streak Stats"
     height="180px"
