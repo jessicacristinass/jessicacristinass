@@ -4,7 +4,6 @@
 
 Me chamo Jessica Cristina da Silva Souza, tenho 19 anos e sou natural de Fortaleza. Sou formada no curso técnico de informática do IFCE e atualmente estou cursando a faculdade de Análise e Desenvolvimento de Sistemas na Uninassau.
 
-> “Código é poesia que funciona.”
 ---
 
 ### ✨ Sobre Mim
@@ -12,6 +11,8 @@ Me chamo Jessica Cristina da Silva Souza, tenho 19 anos e sou natural de Fortale
 Além de gostar de programar sou apaixonada por escrever, desde histórias com seus mundos própios até poemas, e goste de pensar nos meus sites e aplicativos como uma forma de trazer parte das minhas ideias para o mais próximo possível da realidade.
 
 Tenho como foco a criação de aplicações mobile e de sites e atualmente estou trabalhando em projetos pessoais que focam em trazer uma nova versão de sites e ideias que tive durante meu curso técnico como forma de aumentar meu portifólio.
+
+> “Código é poesia que funciona.”
 
 ---
 
