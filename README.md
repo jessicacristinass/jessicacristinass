@@ -132,6 +132,7 @@ Tenho como foco a criação de aplicações mobile e de sites e atualmente estou
 
 ### 📊 Estatísticas
 
+<div style="display: flex">
 <img 
     align="left"
     alt="GitHub Languages"
@@ -146,3 +147,4 @@ Tenho como foco a criação de aplicações mobile e de sites e atualmente estou
     width="49%" 
     src="https://github-readme-streak-stats.herokuapp.com/?user=jessicacristinass&theme=tokyonight"
 />
+</div>
