@@ -2,7 +2,37 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Jessica Cristina da Silva Souza, tenho 19 anos e sou natural de Fortaleza. Sou formada no curso técnico de informática do IFCE e atualmente estou cursando a faculdade de Análise e Desenvolvimento de Sistemas na Uninassau. Participei da trilha de desenvolvimento FullStack do Programa Residência em TIC-20 do Capacita Brasil através do projeto C-Jovem.
+Me chamo Jessica Cristina da Silva Souza, tenho 19 anos e sou natural de Fortaleza. Sou formada no curso técnico de informática do IFCE e atualmente estou cursando a faculdade de Análise e Desenvolvimento de Sistemas na Uninassau.
+
+> “Código é poesia que funciona.”
+---
+
+### ✨ Sobre Mim
+
+Além de gostar de programar sou apaixonada por escrever, desde histórias com seus mundos própios até poemas, e goste de pensar nos meus sites e aplicativos como uma forma de trazer parte das minhas ideias para o mais próximo possível da realidade.
+
+Tenho como foco a criação de aplicações mobile e de sites e atualmente estou trabalhando em projetos pessoais que focam em trazer uma nova versão de sites e ideias que tive durante meu curso técnico como forma de aumentar meu portifólio.
+
+---
+
+### 📝 Curiosidades
+
+- Um dos meus primeiros sites, que também está entre os meus favoritos, foi baseado em uma cafeteria que só existe em um dos universos que criei para minhas histórias.
+
+- O projeto que mais teve meu foco até o momento foi um aplicativo que criei para ajudar minha mãe a manter um controle do cardápio, compras e lucros da sua venda de salgados
+
+- Eu só descobri depois de já ter começado a estudar programação que meu tio é, também, programador.
+
+---
+
+### 🏅 Certificados e Conquistas
+
+| Tipo | Nome | Descrição | Instituição |
+|--------|-----------|-------------|------|
+| **Certificado** | Programa de Residência em TIC-20 | Trilha de desenvolvimento FullStack | Capacita Brasil / C-Jovem |
+| **Certificado** | B2 Level | Preliminary English Test | Cambridge University |
+| **Conquista** | Ceará Científico 2023 | Participação com um projeto de [jogo de matemática](https://github.com/jessicacristinass/Feira-de-Ciencias) |  |
+| **Conquista** | JAS - Jovem Aprendiz Sustentável 2025 | 2° lugar na etapa regional com o projeto [Raízes Cidadãs](https://github.com/jessicacristinass/RaizesCidadas)
 
 ---
 
@@ -104,6 +134,14 @@ Me chamo Jessica Cristina da Silva Souza, tenho 19 anos e sou natural de Fortale
 <img 
     align="left"
     alt="GitHub Languages"
-    width="300px"
+    height="200px"
+    style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicacristinass&theme=tokyonight&layout=compact&custom_title=Tecnologias"
+/>
+
+<img 
+    align="left"
+    alt="GitHub Languages"
+    height="200px" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=jessicacristinass&theme=tokyonight"
 />
