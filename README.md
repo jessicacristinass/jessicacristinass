@@ -132,19 +132,20 @@ Tenho como foco a criação de aplicações mobile e de sites e atualmente estou
 
 ### 📊 Estatísticas
 
-<div style="display: flex">
 <img 
     align="left"
     alt="GitHub Languages"
-    width="49%"
+    width="300px"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicacristinass&theme=tokyonight&layout=compact&custom_title=Tecnologias"
 />
 
+<br/>
+<br/>
+
 <img 
     align="left"
     alt="GitHub Languages"
-    width="49%" 
+    width="300px" 
     src="https://github-readme-streak-stats.herokuapp.com/?user=jessicacristinass&theme=tokyonight"
 />
-</div>
