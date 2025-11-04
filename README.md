@@ -139,13 +139,3 @@ Tenho como foco a criação de aplicações mobile e de sites e atualmente estou
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicacristinass&theme=tokyonight&layout=compact&custom_title=Tecnologias"
   />
 </p>
-
-<br/>
-
-<p align="center">
-  <img 
-    alt="GitHub Streak Stats"
-    width="50%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=jessicacristinass&theme=tokyonight"
-  />
-</p>
